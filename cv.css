@@ -1,0 +1,46 @@
+.kotak{
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+}
+
+.atas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+    background-color: cadetblue;
+    display: flex;
+}
+
+.kiri{
+    align-items: flex-start;
+}
+
+.bawah{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+    background-color: cadetblue;
+    display: flex;
+}
+
+.kotak1{
+    border: 10% solid black;
+}
+
+.kotak2{
+    border: 10% solid black;
+}
+
+.kotak3{
+    border: 10% solid black;
+}
